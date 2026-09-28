@@ -2,6 +2,13 @@
 
 Aplicación web Laravel 12 + Blade para centralizar solicitudes universitarias de mantenimiento, soporte, infraestructura y servicios institucionales. La aplicación usa PostgreSQL en producción/desarrollo y SQLite en la suite automatizada.
 
+## Documentación
+
+La documentación del proyecto, incluyendo casos de uso, arquitectura,
+evidencias funcionales y resultados de pruebas, se encuentra disponible en:
+
+- [Documentación de Campus Connect](docs/Campus_Connect_Documentacion.pdf)
+
 ## Instalación
 
 Requisitos: PHP 8.2+, Composer, PostgreSQL 14+ y Node/NPM (opcional para assets adicionales).
